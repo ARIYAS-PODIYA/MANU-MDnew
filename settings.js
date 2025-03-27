@@ -1,6 +1,6 @@
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //                                                                                                      //
-//                                    𝗠𝗔𝗡𝗨-𝗠𝗗  𝐁𝐎𝐓                                                 //
+//                                    𝗞𝗔𝗗𝗔𝗬𝗔-𝗠𝗗  𝐁𝐎𝐓                                                 //
 //                                                                                                      //
 //                                         Ｖ：7.0                                                       //
 
@@ -20,19 +20,19 @@
 
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //*
-//  * @project_name : MANU-MD
-//  * @author : Manul Official
-//  * @youtube : https://www.youtube.com/@ManulOfficialTech
-//  * @description : Manu-MD ,A Multi-functional whatsapp user bot.
+//  * @project_name : 𝗞𝗔𝗗𝗔𝗬𝗔-MD
+//  * @author : 𝗞𝗔𝗗𝗔𝗬𝗔 Official
+//  * @youtube : https://youtube.com/@rp_music_and_gaming?si=ycp75LXq-4RreC9S
+//  * @description : 𝗞𝗔𝗗𝗔𝗬𝗔-MD ,A Multi-functional whatsapp user bot.
 //*
 //*
-//base by Manul Official
-//GitHub: @manulofficial7
-//WhatsApp: +94742274855
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@ManulOfficialTech
-//   * Created By Github: manulofficial7.
-//   * Credit To Manul Official
-//   * © 2024 MANU-MD-V7.
+//base by 𝗞𝗔𝗗𝗔𝗬𝗔 Official
+//GitHub: @𝗻𝗼
+//WhatsApp: +94766002356
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@rp_music_and_gaming?si=ycp75LXq-4RreC9S
+//   * Created By Github:𝗡𝗢.
+//   * Credit To 𝗞𝗔𝗗𝗔𝗬𝗔 Official
+//   * © 2025 𝗞𝗔𝗗𝗔𝗬𝗔-MD.
 // ⛥┌┤
 // */
 
@@ -43,10 +43,10 @@ function convertToBool(text, fault = 'true') {
 }
 module.exports = {
 
-SESSION_ID: process.env.SESSION_ID === undefined ? '' : process.env.SESSION_ID,
+SESSION_ID: process.env.SESSION_ID === undefined ? 'Manu-MD&pH8lAKoY#C3tzN-TuxXmiseapBb5L5SltUZ7FGFwgDWFASIgTafI' : process.env.SESSION_ID,
 PREFIX: process.env.PREFIX || '.' ,
 PORT: process.env.PORT === undefined ? "8000" : process.env.PORT,
-SUDO: process.env.SUDO === undefined ? '94742274855' : process.env.SUDO,
+SUDO: process.env.SUDO === undefined ? '94776195635' : process.env.SUDO,
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS === undefined ?"true" : process.env.AUTO_READ_STATUS,
 MODE: process.env.MODE === undefined ?"public" : process.env.MODE,
 AUTO_VOICE: process.env.AUTO_VOICE === undefined ? "false" : process.env.AUTO_VOICE,
