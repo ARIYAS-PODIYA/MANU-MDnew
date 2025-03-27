@@ -1,6 +1,6 @@
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //                                                                                                      //
-//                                    𝗠𝗔𝗡𝗨-𝗠𝗗  𝐁𝐎𝐓                                                 //
+//                                    𝗞𝗔𝗗𝗔𝗬𝗔-𝗠𝗗  𝐁𝐎𝐓                                                 //
 //                                                                                                      //
 //                                         Ｖ：7.0                                                       //
 
@@ -20,19 +20,19 @@
 
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //*
-//  * @project_name : MANU-MD
-//  * @author : Manul Official
-//  * @youtube : https://www.youtube.com/@ManulOfficialTech
-//  * @description : Manu-MD ,A Multi-functional whatsapp user bot.
+//  * @project_name : 𝗞𝗔𝗗𝗔𝗬𝗔-MD
+//  * @author : 𝗞𝗔𝗗𝗔𝗬𝗔 Official
+//  * @youtube : https://youtube.com/@rp_music_and_gaming?si=ycp75LXq-4RreC9S
+//  * @description : 𝗞𝗔𝗗𝗔𝗬𝗔-MD ,A Multi-functional whatsapp user bot.
 //*
 //*
-//base by Manul Official
-//GitHub: @manulofficial7
-//WhatsApp: +94742274855
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@ManulOfficialTech
-//   * Created By Github: manulofficial7.
-//   * Credit To Manul Official
-//   * ©𝐌𝐑 𝐌𝐀𝐍𝐔𝐋 𝐎𝐅𝐂 💚.
+//base by 𝗞𝗔𝗗𝗔𝗬𝗔 Official
+//GitHub: @𝗡𝗢
+//WhatsApp: +94766002356
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@rp_music_and_gaming?si=ycp75LXq-4RreC9S
+//   * Created By Github: 𝗙𝗨𝗖𝗞𝗘𝗥.
+//   * Credit To Y2x_4! Official
+//   * ©𝐌𝐑 𝗥𝗔𝗠𝗘𝗦𝗛 𝐎𝐅𝐂 💚.
 // ⛥┌┤
 // */
 
